@@ -32,3 +32,5 @@ done
 docker pull $DOCKERIO_URL/flannel:v0.9.1-amd64
 docker tag $DOCKERIO_URL/flannel:v0.9.1-amd64 quay.io/coreos/flannel:v0.9.1-amd64
 docker rmi $DOCKERIO_URL/flannel:v0.9.1-amd64
+
+

@@ -13,3 +13,4 @@
 	gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64  1.14.5
 	gcr.io/google_containers/etcd-amd64  3.0.17
 	gcr.io/google_containers/pause-amd64  3.0
+	gcr.io/google_containers/kubernetes-dashboard-amd64
